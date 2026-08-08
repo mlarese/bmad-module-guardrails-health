@@ -1,0 +1,24 @@
+{
+  "name": "guardrails-health",
+  "owner": "mlarese",
+  "description": "Guardrails Health: dominio clinico e qualificazione del software sanitario.",
+  "plugins": [
+    {
+      "name": "grh",
+      "source": "./src",
+      "description": "Presidio del dominio clinico sullo sviluppo di software sanitario — modello dati clinico e codifiche, interoperabilità, sicurezza del paziente, workflow reale di reparto — più il percorso guidato di qualificazione del software come dispositivo medico.",
+      "version": "1.16.0",
+      "author": "mlarese",
+      "homepage": "https://github.com/mlarese/bmad-module-guardrails-health",
+      "repository": "https://github.com/mlarese/bmad-module-guardrails-health",
+      "license": "MIT",
+      "skills": [
+        "src/skills/grh-setup",
+        "src/skills/grh-profile",
+        "src/skills/grh-board",
+        "src/skills/grl-agent-health",
+        "src/skills/grl-mdsw"
+      ]
+    }
+  ]
+}
