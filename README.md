@@ -19,7 +19,6 @@ stesse figure, stesso comportamento, solo l'area health.
 
 | Skill | Comando | Cosa fa |
 | ----- | ------- | ------- |
-| `grh-setup` | Installa Guardrails Health | Registra Guardrails, le figure, le stanze tematiche di party mode e le voci di help. Non crea la memoria condivisa. |
 | `grh-profile` | Profila il progetto | Raccoglie in pochi minuti gli otto campi che danno contesto a tutte le figure, criticità inclusa. |
 | `grh-profile` | Aggiorna il profilo | Riallinea il profilo quando il progetto cambia, e dice se il cambiamento invalida rischi già accettati. |
 | `grh-board` | Convoca il collegio | Fa leggere lo stesso artefatto alle sole figure pertinenti e restituisce un riepilogo unico, conflitti compresi. |

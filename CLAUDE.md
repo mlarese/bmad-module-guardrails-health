@@ -13,9 +13,7 @@ fonte, poi `python3 tools/build_modules.py --module grh`, poi commit qui.
 ## Cosa cambia rispetto al bundle
 
 - il roster contiene solo le figure di quest'area
-- le tre skill del core sono rinominate: `grh-setup`, `grh-profile`,
-  `grh-board`
-- i gruppi di party mode contengono solo i membri installati
+- le due skill del core sono rinominate: `grh-profile`, `grh-board`
 - la memoria condivisa resta `_bmad/memory/grl-shared/`, uguale per tutti i moduli
 
 ## Niente pull request
