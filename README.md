@@ -24,6 +24,7 @@ stesse figure, stesso comportamento, solo l'area health.
 | `grh-profile` | Aggiorna il profilo | Riallinea il profilo quando il progetto cambia, e dice se il cambiamento invalida rischi già accettati. |
 | `grh-board` | Convoca il collegio | Fa leggere lo stesso artefatto alle sole figure pertinenti e restituisce un riepilogo unico, conflitti compresi. |
 | `grh-board` | Rischi già accettati | Mostra, raggruppato per figura, quello che il progetto ha consapevolmente scelto di accettare. |
+| `grh-board` | Gate di rilascio | Verifica una release identificata e restituisce GO, GO_CON_CONDIZIONI, NO_GO o EVIDENZA_INSUFFICIENTE. |
 | `grl-mdsw` | È un dispositivo medico? | Verifica se una funzione software ha una finalità medica su un singolo paziente, distingue archiviazione e visualizzazione da interpretazione clinica e indica se rientra nel MDR e in quale classe (I, IIa, IIb, III), con l'impatto sul piano. Non produce certificazione. |
 
 ## Installazione
