@@ -8,7 +8,7 @@
 code: grh
 name: Guardrails Health
 description: "Presidio del dominio clinico sullo sviluppo di software sanitario — modello dati clinico e codifiche, interoperabilità, sicurezza del paziente, workflow reale di reparto — più il percorso guidato di qualificazione del software come dispositivo medico."
-module_version: 1.31.0
+module_version: 1.32.0
 default_selected: false
 
 module_greeting: >
