@@ -7,7 +7,7 @@
       "name": "grh",
       "source": "./src",
       "description": "Presidio del dominio clinico sullo sviluppo di software sanitario — modello dati clinico e codifiche, interoperabilità, sicurezza del paziente, workflow reale di reparto — più il percorso guidato di qualificazione del software come dispositivo medico.",
-      "version": "1.35.9",
+      "version": "1.36.0",
       "author": "mlarese",
       "homepage": "https://github.com/mlarese/bmad-module-guardrails-health",
       "repository": "https://github.com/mlarese/bmad-module-guardrails-health",
